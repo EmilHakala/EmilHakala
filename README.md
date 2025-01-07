@@ -1,5 +1,4 @@
 <h1 align="center">Hi there! 👋 I'm Emil Hakala</h1>
-<h3 align="center">Game Developer & Music Producer from Finland 🎮 🎵 🇫🇮</h3>
 
 <p align="center">I create games and interactive experiences using Godot Engine, combining programming with creative design. When I'm not coding games, I'm producing music to bring audio worlds to life. Passionate about merging technology and creativity to build engaging digital experiences.</p>
 
