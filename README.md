@@ -8,7 +8,7 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 <div align="center" style="margin-bottom: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://img.shields.io/badge/Godot?style=flat" height="40" alt="HTML5" title="HTML5"/>
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
   <img width="15" />
