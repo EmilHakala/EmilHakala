@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot Engine"/>
   <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GDScript"/>
@@ -17,7 +17,7 @@
 
 <ul style="list-style: none; text-align: left; margin: 0 auto; max-width: 600px; font-size: 16px;">
   <li>🛠️ I'm currently working on my brutalist open-world game using Godot Engine.</li>
-  <li>🌱 On the side, I'm learning <strong>Rust</strong> and the <strong>Bevy game engine</strong>. </li>
+  <li>🌱 On the side, I'm learning <strong>C</strong> to create a <strong>Physics based particle simulator</strong>. </li>
   <li>😄 Pronouns: He/Him</li>
 </ul>
 
