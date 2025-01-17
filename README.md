@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Emil Hakala</h1>
+<h1 align="center">Hi! 👋 I'm Emil Hakala</h1>
 
 <p align="center" style="font-size: 18px; line-height: 1.6;">
   I create games and interactive experiences using the <strong>Godot Engine</strong>, blending programming with creative design. 
