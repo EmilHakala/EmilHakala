@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Emil Hakala</h1>
 
 <p align="center" style="font-size: 18px; line-height: 1.6;">
-  I create games and interactive experiences using the <strong>Godot Engine</strong>, blending programming with creative design. 
+  I create games and interactive experiences using the <strong>Godot Engine</strong>, combining programming with creative design. 
   Passionate about merging technology and creativity to build engaging digital experiences.
 </p>
 
@@ -9,8 +9,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot Engine"/>
   <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GDScript"/>
 </p>
