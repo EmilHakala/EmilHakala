@@ -37,6 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmilHakala&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true" 
        height="150" 
        alt="languages graph"/>
+  <img src="https://hackatime-badge.hackclub.com/U0978QLDXS4/treeoflife"/>
 </div>
 
 <h2 align="center">🤝 Let's Connect!</h2>
