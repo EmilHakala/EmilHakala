@@ -23,7 +23,7 @@
 </p>
 
 <ul style="list-style: none; text-align: left; margin: 0 auto; max-width: 600px; font-size: 16px;">
-  <li>🛠️ I'm currently working on my brutalist open-world game using Godot Engine.</li>
+  <li>🛠️ I'm currently working on a fast-paced roguelike using the Godot Engine.</li>
   <li>🌱 On the side, I'm learning <strong>C</strong> to create a <strong>Physics based particle simulator</strong>. </li>
 </ul>
 
