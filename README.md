@@ -5,14 +5,6 @@
   Passionate about merging technology and creativity to build engaging digital experiences.
 </p>
 
-<div align="center" style="margin-top: 20px;">
-  <a href="https://buymeacoffee.com/emilhakala" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" 
-         height="35" 
-         alt="Buy Me a Coffee"/>
-  </a>
-</div>
-
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
